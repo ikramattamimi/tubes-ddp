@@ -1,0 +1,166 @@
+
+							>>> SELAMAT DATANG DALAM PROGRAM ABSENSI MAHASISWA <<<
+							    >>> JURUSAN TEKNIK KOMPUTER DAN INFORMATIKA <<<
+							  >>> PROGRAM STUDI DIPLOMA III TEKNIK INFORMATIKA <<<
+							             >>> POLITEKNIK NEGERI BANDUNG <<<
+
+
+
+>>> CARA PAKAI PROGRAM ABSENSI MAHASISWA <<<
+
+
+>>> Log In 
+	Dalam menu log in akan muncul menu berikut:
+
+	1. Admin
+   	2. Mahasiswa
+  	3. Help
+  	4. Exit
+
+	>>> Silakan pilih menu yang sesuai dengan Anda.
+	   >>> Opsi 1 : Log In khusus untuk Admin 
+			Jika Anda adalah Admin maka Anda masukkan Username serta Password admin Anda yang telah terdaftar.
+			Apabila Username tidak terdaftar atau password salah, Anda tidak dapat melanjutkan log in 
+			dan Anda akan diminta memasukkan ulang username serta password.
+	   >>> Opsi 2 : Log In untuk Mahasiswa
+			Jika Anda adalah mahasiswa maka Anda masukkan Username serta Password yang telah  terdaftar.
+			Apabila Username tidak terdaftar atau password salah, Anda tidak dapat melanjutkan log in 
+			dan Anda akan diminta memasukkan ulang username serta password.		
+	   >>> Opsi 3 : Untuk menampilkan cara pemakaian program apabila Anda butuh bantuan.
+	   >>> Opsi 4 : Untuk keluar dari program apabila Anda tidak ingin melanjutkan log in.
+
+>>> Apabila Anda Log In sebagai Admin maka akan muncul menu berikut:
+
+			Menu Admin:
+		1. Kelola Data Mahasiswa
+		2. Kelola Data Admin
+		3. Help
+		4. Logout
+		5. Exit
+	
+	>>> Silakan pilih menu yang sesuai dengan Anda.
+	   >>> Opsi 1 : Untuk mengelola data mahasiswa.
+			Saat Anda memilih opsi ini, maka akan muncul tampilan berikut:
+
+			1. Input Data Mahasiswa
+			2. Buka Seluruh Data Mahasiswa
+			3. Hapus Data Mahasiswa
+			4. Ubah Data Mahasiswa
+			5. Kehadiran Hari Ini
+			6. Kembali
+
+				>>> Silakan pilih menu yang sesuai dengan Anda.
+	   			   >>> Opsi 1 : Untuk menginputkan data-data mahasiswa yaitu : NIM (Username), Nama, Kelas, serta Sandi (Password).
+				   >>> Opsi 2 : Untuk menampilkan data-data mahasiswa yang berhasil diinputkan yaitu : 
+						NIM (Username), Nama, Kelas, serta Sandi (Password).
+				   >>> Opsi 3 : Untuk menghapus data mahasiswa.
+						Saat Anda memilih opsi ini maka akan tampil pilihan:
+						
+							1. Hapus Seluruh Data Mahasiswa
+   							2. Hapus Salah Satu Data Mahasiswa
+   							3. Batal
+
+						>>> Silakan pilih menu yang sesuai dengan Anda.
+	   			   		   >>> Opsi 1 : Untuk menghapus seluruh data mahasiswa.
+				   		   >>> Opsi 2 : Untuk menghapus data salah satu mahasiswa dengan 
+								menginputkan NIM mahasiswa yang bersangkutan terlebih dahulu.
+				   		   >>> Opsi 3 : Untuk membatalkan penghapusan data mahasiswa.
+
+				   >>> Opsi 4 : Untuk mengubah data mahasiswa Anda masukkan NIM data mahasiswa yang akan diubah terlebih dahulu.
+						Saat Anda telah berhasil memasukkan NIM maka akan tampil pilihan:
+							
+							1. Ubah Nama
+							2. Ubah ID
+							3. Ubah Kelas
+							4. Ubah Sandi
+							5. Ubah Keseluruhan
+
+						>>> Silakan pilih menu yang sesuai dengan Anda.
+	   			   		   >>> Opsi 1 : Untuk mengubah Nama mahasiswa yang bersangkutan.
+				   		   >>> Opsi 2 : Untuk mengubah ID (NIM) mahasiswa yang bersangkutan.
+				   		   >>> Opsi 3 : Untuk mengubah Kelas mahasiswa yang bersangkutan.
+						   >>> Opsi 4 : Untuk mengubah data mahasiswa yang bersangkutan secara keseluruhan.
+
+				   >>> Opsi 5 : Untuk menampilkan data kehadiran mahasiswa yang telah mengisi data kehadiran pada hari tersebut.
+						Dalam data tersebut memuat: NIM, Kelas, Nama, Jam Masuk, Status, serta Keterangan.
+				   >>> Opsi 6 : Untuk kembali ke menu sebelumnya.
+
+	   >>> Opsi 2 : Untuk mengelola data admin.
+			Saat Anda memilih opsi ini, maka akan muncul tampilan berikut:
+
+			1. Ubah Akun Admin
+			2. Input Akun Admin Baru
+			3. Hapus Akun Admin
+			4. Tampilkan Seluruh Akun Admin
+			5. Kembali
+
+				>>> Silakan pilih menu yang sesuai dengan Anda.
+	   			   >>> Opsi 1 : Untuk mengubah akun admin Anda masukkan Username admin yang akan diubah terlebih dahulu.
+						Saat Anda telah berhasil memasukkan NIM maka akan tampil pilihan:
+
+							1. Ubah Username
+							2. Ubah Sandi
+							3. Ubah Keseluruhan
+
+						>>> Silakan pilih menu yang sesuai dengan Anda.
+	   			   		   >>> Opsi 1 : Untuk mengubah Username admin yang bersangkutan.
+				   		   >>> Opsi 2 : Untuk mengubah sandi admin yang bersangkutan.
+						   >>> Opsi 3 : Untuk mengubah akun admin yang bersangkutan secara keseluruhan.
+
+				   >>> Opsi 2 : Untuk menambahkan inputan akun admin baru yaitu : 
+						Username admin baru, serta Sandi admin baru.
+				   >>> Opsi 3 : Untuk menghapus akun admin.
+						Saat Anda memilih opsi ini maka akan tampil pilihan:
+						
+							1. Hapus Seluruh Akun Admin
+   							2. Hapus Salah Satu Akun Admin
+   							3. Batal
+
+						>>> Silakan pilih menu yang sesuai dengan Anda.
+	   			   		   >>> Opsi 1 : Untuk menghapus seluruh akun admin.
+				   		   >>> Opsi 2 : Untuk menghapus akun salah satu admin dengan 
+								menginputkan Username admin yang bersangkutan terlebih dahulu.
+				   		   >>> Opsi 3 : Untuk membatalkan penghapusan akun admin.
+
+				   >>> Opsi 4 : Untuk menampilkan akun admin yang telah terdaftar yang memuat Username serta Sandi.
+				   >>> Opsi 5 : Untuk kembali ke menu sebelumnya.
+
+	   >>> Opsi 3 : Untuk menampilkan cara pemakaian program apabila Anda butuh bantuan.
+	   >>> Opsi 4 : Untuk log out dari menu admin.
+	   >>> Opsi 5 : Untuk keluar dari program.
+
+
+>>> Apabila Anda Log In sebagai Mahasiswa maka akan muncul menu berikut:
+
+			Menu Mahasiswa:
+			1. Input Absensi
+			2. Tampilkan Absensi Hari Ini
+			3. Logout
+			4. Exit
+
+	>>> Silakan pilih menu yang sesuai dengan Anda.
+	   >>> Opsi 1 : Untuk menginputkan kehadiran.
+			Saat Anda memilih opsi ini maka akan muncul tampilan berikut:
+
+			Masukkan Status Absensi:
+			1. Hadir
+			2. Izin
+			3. Sakit
+
+			>>> Silakan pilih menu yang sesuai dengan Anda.
+			   >>> Opsi 1 : Pilih opsi ini apabila Anda hadir.
+					Saat Anda memilih opsi ini maka Anda harus menginputkan jam Anda mengabsen.
+			   >>> Opsi 2 : Pilih opsi ini apabila Anda berhalangan hadir karena suatu hal.
+					Saat Anda memilih opsi ini maka Anda harus menginputkan keterangan berhalangan hadir.
+			   >>> Opsi 3 : Pilih opsi ini apabila Anda berhalangan hadir karena sakit.
+					Saat Anda memilih opsi ini maka Anda harus menginputkan Surat Keterangan Sakit.
+			>>> Setelah Anda melakukan prosedur di atas maka program otomatis membawa anda kembali ke menu sebelumnya.
+
+	   >>> Opsi 2 : Untuk menampilkan data kehadiran mahasiswa yang telah mengisi data kehadiran pada hari tersebut.
+			Dalam data tersebut memuat: NIM, Kelas, Nama, Jam Masuk, Status, serta Keterangan.
+	   >>> Opsi 3 : Untuk log out dari menu mahasiswa.
+	   >>> Opsi 4 : Untuk keluar dari program.
+
+
+							>>> TERIMAKASIH TELAH MENGGUNAKAN PROGRAM SEDERHANA KAMI :) <<<
+									>>> SEMOGA BERMANFAAT <<<
